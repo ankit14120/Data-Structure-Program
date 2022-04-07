@@ -1,4 +1,4 @@
-/*P4.2 Program of stack using linked list*/
+/*Program of stack using linked list*/
 
 #include<stdio.h>
 #include<stdlib.h>
