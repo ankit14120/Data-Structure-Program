@@ -1,4 +1,4 @@
-/*P9.4 Binary search in an array*/
+/*Binary search in an array*/
 
 #include <stdio.h>
 #define MAX 50
