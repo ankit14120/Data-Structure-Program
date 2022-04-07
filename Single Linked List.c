@@ -1,4 +1,4 @@
-/* P3.1 Program of single linked list*/
+/*Program of single linked list*/
 
 #include<stdio.h>
 #include<stdlib.h>
